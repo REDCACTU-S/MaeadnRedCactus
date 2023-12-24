@@ -8,4 +8,8 @@ apt install python
 apt install git
 ```
 ```
-git clone
+git clone https://github.com/REDCACTU-S/MaeadnRedCactus.git
+```
+```
+
+```
