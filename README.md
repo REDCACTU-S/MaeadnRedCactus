@@ -1,5 +1,5 @@
 ```
-apt update && apt
+apt update && apt upgrade
 ```
 ```
 apt install python
